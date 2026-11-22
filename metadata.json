@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI",
+  "description": "Bilingual English & Nepali document intelligence platform with hybrid RAG, online & offline AI modes, explicit cloud privacy consent, study studio, and research tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
